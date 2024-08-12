@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MERCADE ALI</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on [BAZ'ART](https://github.com/Megalodon000/Bazart)
+- 🔭 I’m currently working on [Boost Logistics](https://github.com/Megalodon000/rails_boost_logistics)
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Ruby On Rails & MERN**
 
-- 👯 I’m looking to collaborate on [office-bnb](https://github.com/Megalodon000/office-bnb)
+- 👯 I’m looking to collaborate on [BAZ'ART](https://github.com/Megalodon000/Bazart)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Megalodon000](https://github.com/Megalodon000)
 
